@@ -1,1 +1,2 @@
 gitはギットと読む
+ブランチの移動はgit checkout feature-branch
